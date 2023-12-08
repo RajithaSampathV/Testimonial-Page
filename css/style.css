@@ -139,6 +139,10 @@ body
 }
 @media screen and (max-width:1140px)
 {
+  .container
+  {
+    padding-bottom: 500px;
+  }
   .star
   {
     margin-top: 100px;
@@ -174,7 +178,6 @@ body
   .container
   {
     padding: 25px;
-    padding-bottom: 500px;
   }
   .review
   {
